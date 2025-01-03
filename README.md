@@ -10,6 +10,8 @@ Welcome to my professional portfolio repository! 🚀
 
 I am an Associate Software Engineer with a passion for backend development and innovative problem-solving. Proficient in Java, Python, and other backend technologies, I strive to create scalable and efficient solutions. My enthusiasm for learning and adapting helps me tackle complex challenges in software engineering.
 
+![My Work](image.png) <!-- Add your image here -->
+
 ---
 
 ## 🛠️ Skills
