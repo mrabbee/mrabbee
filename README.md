@@ -1,6 +1,6 @@
 # 💼 Abbas Sadiq-Associate Software Engineer 
 
-![Coding Animation](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding Animation]https://img.freepik.com/premium-vector/isometric-laptop-analysis-information-connect-with-smartphone-server-futuristic-concept-illustration_35136-279.jpg?w=996
 
 Welcome to my professional portfolio repository! 🚀
 
