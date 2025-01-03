@@ -2,47 +2,76 @@
 
 ![Coding Animation](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Welcome to my professional portfolio repository! 🚀
+Welcome to my professional portfolio repository! 🚀  
+Explore my projects, skills, and services as a passionate backend developer.
 
 ---
 
 ## 👩‍💻 About Me
 
-I am an Associate Software Engineer with a passion for backend development and innovative problem-solving. Proficient in Java, Python, and other backend technologies, I strive to create scalable and efficient solutions. My enthusiasm for learning and adapting helps me tackle complex challenges in software engineering.
+I am an Associate Software Engineer with a strong foundation in **Java** and **Python**, specializing in backend development.  
+With experience in frameworks like Spring Boot and RESTful APIs, I create **scalable, efficient, and innovative solutions**.  
+My adaptability and continuous learning mindset allow me to excel in challenging engineering tasks.
 
-![My Work](image.png) <!-- Add your image here -->
+![My Work](image.png) <!-- Replace with your image URL -->
 
 ---
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Java, Python, SQL
-- **Frameworks**: Spring Boot, RESTful APIs
-- **Tools**: IntelliJ IDEA, Visual Studio Code, PyCharm, Postman
+### **Languages**
+- **Java**: Enterprise-level backend development.
+- **Python**: Scripting and machine learning projects.
+- **SQL**: Database design and management.
+
+### **Frameworks & Tools**
+- **Frameworks**: Spring Boot, RESTful APIs.
+- **Tools**: IntelliJ IDEA, Visual Studio Code, PyCharm, Postman.
+
+### **Specialized Skills**
+- Automation scripting and system optimization.
+- Database schema design and performance tuning.
+- Developing secure and scalable APIs.
 
 ---
 
 ## 🚀 Services
 
-I specialize in:
+### Here's what I offer:
+1. **Backend Development**  
+   Build robust server-side logic and **RESTful APIs** for web and mobile applications.
+   
+2. **Automation Scripting**  
+   Develop **Python scripts** to automate repetitive tasks and improve productivity.
 
-- **Backend Development**: Creating RESTful APIs and managing server-side logic.
-- **Automation Scripting**: Python scripts for task automation and optimization.
-- **Database Management**: Designing and maintaining relational databases.
-- **System Optimization**: Analyzing and improving code performance.
+3. **Database Management**  
+   Design efficient and normalized **relational databases** for various applications.
+
+4. **System Optimization**  
+   Analyze code, identify bottlenecks, and optimize for better performance.
 
 ---
 
 ## 🌟 Projects
 
-### 1. Virtual Clothing Android Application
-Developed an Android app using Java and AR technology to overlay virtual clothes on users in real-time.
+### 1. **Virtual Clothing Android Application**
+- **Tech Used**: Java, Android Studio, AR technology.
+- **Description**: Integrated augmented reality to allow users to try on virtual clothes in real-time.
 
-### 2. Islamic Quiz App
-Created a quiz app with multiple-choice questions and performance tracking using Java.
+### 2. **Islamic Quiz App**
+- **Tech Used**: Java.
+- **Description**: A quiz app featuring multiple-choice questions, scoreboards, and performance tracking.
 
-### 3. Driver Drowsiness Detection System
-Built a Python-based system using OpenCV and machine learning techniques to detect driver drowsiness.
+### 3. **Driver Drowsiness Detection System**
+- **Tech Used**: Python, OpenCV, Machine Learning.
+- **Description**: Built a system to monitor driver drowsiness and issue real-time alerts for safety.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbbasSadiq&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasSadiq&layout=compact&theme=radical)
 
 ---
 
@@ -55,4 +84,10 @@ Built a Python-based system using OpenCV and machine learning techniques to dete
 
 ---
 
-> "Passion fuels purpose."
+## ✨ Quote
+
+> "Passion fuels purpose, and purpose drives innovation."  
+
+---
+
+### Thank you for visiting my profile! If you’re interested in collaborating or need my services, feel free to **reach out**. Let’s build something amazing together! 🚀
