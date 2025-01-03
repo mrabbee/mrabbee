@@ -1,6 +1,6 @@
-# 💼 Abbas Sadiq-Associate Software Engineer 
+# 💼 Associate Software Engineer - Abbas Sadiq
 
-Coding Animation https://img.freepik.com/premium-vector/isometric-laptop-analysis-information-connect-with-smartphone-server-futuristic-concept-illustration_35136-279.jpg?w=996
+![Coding Animation](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 Welcome to my professional portfolio repository! 🚀
 
@@ -9,6 +9,8 @@ Welcome to my professional portfolio repository! 🚀
 ## 👩‍💻 About Me
 
 I am an Associate Software Engineer with a passion for backend development and innovative problem-solving. Proficient in Java, Python, and other backend technologies, I strive to create scalable and efficient solutions. My enthusiasm for learning and adapting helps me tackle complex challenges in software engineering.
+
+![My Work](image.png) <!-- Add your image here -->
 
 ---
 
