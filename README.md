@@ -1,99 +1,56 @@
-# Abbas Sadiq - Associate Software Engineer  
+# 💼 Associate Software Engineer - Abbas Sadiq
 
-![Glowing Animation](https://user-images.githubusercontent.com/example-animation.gif)
+![Coding Animation](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
----
-
-### 🚀 **About Me**
-
-Hi there! I am **Abbas Sadiq**, a passionate and dedicated Associate Software Engineer with expertise in **Java Back-end Development** and **Python Programming**. I specialize in building scalable and efficient applications using the latest technologies.
+Welcome to my professional portfolio repository! 🚀
 
 ---
 
-### 🛠️ **Technical Skills**
+## 👩‍💻 About Me
 
-#### Programming Languages:
-- **Java**: Spring Boot, RESTful APIs
-- **Python**: Flask, OpenCV, Data Analysis
-- **SQL**: Database Management, Query Optimization
-
-#### Tools and Frameworks:
-- IntelliJ IDEA, Visual Studio Code, PyCharm
-- Postman for API testing
-- Git & GitHub for version control
+I am an Associate Software Engineer with a passion for backend development and innovative problem-solving. Proficient in Java, Python, and other backend technologies, I strive to create scalable and efficient solutions. My enthusiasm for learning and adapting helps me tackle complex challenges in software engineering.
 
 ---
 
-### 💼 **Services I Offer**
+## 🛠️ Skills
 
-- **Back-end Development**:
-  - RESTful API development using Spring Boot.
-  - Microservices architecture design.
-
-- **Python Development**:
-  - Data analysis and automation scripts.
-  - Machine learning model implementation and training.
-
-- **Mobile App Development**:
-  - Android applications integrated with modern APIs.
-
-- **System Integration**:
-  - End-to-end integration of software systems ensuring seamless communication.
+- **Programming Languages**: Java, Python, SQL
+- **Frameworks**: Spring Boot, RESTful APIs
+- **Tools**: IntelliJ IDEA, Visual Studio Code, PyCharm, Postman
 
 ---
 
-### 🌟 **Highlighted Projects**
+## 🚀 Services
 
-1. **Virtual Clothing Android Application**
-   - Developed an Android app using Java and Android Studio.
-   - Integrated AR technology to overlay virtual clothing in real-time.
+I specialize in:
 
-2. **Islamic Quiz App**
-   - Created a Java-based quiz application.
-   - Features multiple-choice questions, leaderboards, and performance tracking.
-
-3. **Driver Drowsiness Detection System**
-   - Built with Python and OpenCV.
-   - Real-time detection and alert system for drivers.
+- **Backend Development**: Creating RESTful APIs and managing server-side logic.
+- **Automation Scripting**: Python scripts for task automation and optimization.
+- **Database Management**: Designing and maintaining relational databases.
+- **System Optimization**: Analyzing and improving code performance.
 
 ---
 
-### 📚 **Education**
+## 🌟 Projects
 
-- **Bachelor's Degree in Computer Science**
-  - Abbottabad University of Science and Technology (2020 - 2024)
+### 1. Virtual Clothing Android Application
+Developed an Android app using Java and AR technology to overlay virtual clothes on users in real-time.
 
-- **FSc Pre-Engineering**
-  - Govt Post Graduate College No 1 Abbottabad (2017 - 2019)
+### 2. Islamic Quiz App
+Created a quiz app with multiple-choice questions and performance tracking using Java.
 
----
-
-### 🖥️ **Experience**
-
-- **Associate Software Engineer (JAVA)**
-  - **Digitify Pvt Ltd, Lahore** (08/2024 - Present)
-  - Developed RESTful APIs and collaborated with senior developers to optimize performance.
-
-- **Python Developer Intern**
-  - **Social Swirll, Lahore** (07/2024 - 08/2024)
-  - Built backend logic and automation scripts for web apps.
+### 3. Driver Drowsiness Detection System
+Built a Python-based system using OpenCV and machine learning techniques to detect driver drowsiness.
 
 ---
 
-### 📫 **Contact Me**
+## 📫 Contact
 
 - **Email**: [abbeekarlal786@gmail.com](mailto:abbeekarlal786@gmail.com)
-- **LinkedIn**: [linkedin.com/in/abbas-sadiq](https://linkedin.com/in/abbas-sadiq)
-- **Phone**: +92 311 589 2512
+- **LinkedIn**: [Abbas Sadiq](https://linkedin.com/in/abbas-sadiq-94a290295)
+- **Phone**: +92 311 5892512
 - **Location**: Lahore, Pakistan
 
 ---
 
-### 🌐 **Find Me Online**
-
-- **GitHub**: [github.com/abbassadiq](https://github.com/abbassadiq)
-- **Portfolio Website**: [abbassadiq.dev](https://abbassadiq.dev)
-
----
-
-### ✨ **Let's Build Something Great Together!**
+> "Passion fuels purpose."
