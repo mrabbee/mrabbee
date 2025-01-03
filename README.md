@@ -1,4 +1,4 @@
-# 💼 Associate Software Engineer - Abbas Sadiq
+# 💼 Abbas Sadiq-Associate Software Engineer 
 
 ![Coding Animation](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -9,8 +9,6 @@ Welcome to my professional portfolio repository! 🚀
 ## 👩‍💻 About Me
 
 I am an Associate Software Engineer with a passion for backend development and innovative problem-solving. Proficient in Java, Python, and other backend technologies, I strive to create scalable and efficient solutions. My enthusiasm for learning and adapting helps me tackle complex challenges in software engineering.
-
-![My Work](image.png) <!-- Add your image here -->
 
 ---
 
